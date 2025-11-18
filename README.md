@@ -63,7 +63,7 @@ To run this project locally:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [Your Repository URL]
+    git clone https://github.com/ZUXXSU/Rimashaar-assignment.git
     ```
 2.  **Open in Xcode:**
     Navigate to the project directory and open the `.xcodeproj` file.
@@ -74,7 +74,7 @@ To run this project locally:
 
 ## 📧 Contact Information
 
-**Submitted By:** [Your Name]
+**Submitted By:** Hardik Kolge
 **Date of Submission:** November 18, 2025
 
 ***
